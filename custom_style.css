@@ -1,0 +1,9 @@
+.container_left{float:left;width:35%;}
+.container_right{margin:20px;}
+th{
+    width:12%;
+}
+.table_heading{text-align: left;}
+/* .filters_left{ width:3px;float:left;border:1px solid red;} */
+.manage_tpl_container{float:right;}
+.edit_tem_name{ font-size: 20px; font-weight: 500;}
